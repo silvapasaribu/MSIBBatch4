@@ -4,4 +4,7 @@ Rincian Materi Kampus Merdeka Batch 4
 - Github
 - PHP
 - MySQL
--Laravel
+- Laravel
+- Rest API
+- UI/UX
+- Final Project
