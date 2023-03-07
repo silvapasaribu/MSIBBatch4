@@ -1,0 +1,4 @@
+ini adlah file cabang ( branch )
+setelah membuat branch ketika di lokal adalah git branch nama_branch
+setiap file yang ada di branch tidak terlihat di master 
+- kecuali sudah di lakukan merge atau penggabungan perintahnya adalah ( git merge )
